@@ -12,9 +12,9 @@ namespace PaySmartAPI
             // Configuración y servicios de API web
 
             //Remueve el resultado XML y solo se visualiza el Json
-            //var json = config.Formatters.JsonFormatter;
-            //json.SerializerSettings.PreserveReferencesHandling = Newtonsoft.Json.PreserveReferencesHandling.Objects;
-            //config.Formatters.Remove(config.Formatters.XmlFormatter);
+            var json = config.Formatters.JsonFormatter;
+            json.SerializerSettings.PreserveReferencesHandling = Newtonsoft.Json.PreserveReferencesHandling.Objects;
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
 
             // Rutas de API web
             config.MapHttpAttributeRoutes();
