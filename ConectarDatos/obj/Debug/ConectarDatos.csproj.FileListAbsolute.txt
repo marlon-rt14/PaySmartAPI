@@ -1,0 +1,12 @@
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\bin\Debug\ConectarDatos.dll
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\bin\Debug\ConectarDatos.pdb
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\bin\Debug\EntityFramework.dll
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\bin\Debug\EntityFramework.xml
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\obj\Debug\ConectarDatos.csproj.CoreCompileInputs.cache
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\obj\Debug\ConectarDatos.csproj.CopyComplete
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\obj\Debug\ConectarDatos.dll
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\obj\Debug\ConectarDatos.pdb
+C:\Users\mjavi\source\repos\PaySmartAPI\ConectarDatos\obj\Debug\ConectarDatos.csprojAssemblyReference.cache
